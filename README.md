@@ -1,6 +1,6 @@
-# {{ NAME }}
+# DeepSeek
 
-{{ DESCRIPTION }}
+A PowerShell module to interact with DeepSeek.
 
 ## Prerequisites
 
@@ -12,8 +12,8 @@ This uses the following external resources:
 To install the module from the PowerShell Gallery, you can use the following command:
 
 ```powershell
-Install-PSResource -Name {{ NAME }}
-Import-Module -Name {{ NAME }}
+Install-PSResource -Name DeepSeek
+Import-Module -Name DeepSeek
 ```
 
 ## Usage
